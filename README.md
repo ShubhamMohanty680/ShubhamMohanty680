@@ -61,7 +61,10 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 
 |Project Name|Description|
 |--------|:----|  
-|[React-Native-Apps](https://github.com/pratham-0094/React-Native-Apps)| In this repository I will be adding my React Native Apps that I created :- meal api and todo app. | 
+|[React-Native-Apps](https://github.com/
+
+
+-0094/React-Native-Apps)| In this repository I will be adding my React Native Apps that I created :- meal api and todo app. | 
 |[Portfolio](https://github.com/pratham-0094/angular-portfolio)| This is my own portfolio website [https://pratham-0094.github.io/angular-portfolio](https://pratham-0094.github.io/angular-portfolio)| 
 |[INO](https://github.com/prakhar-5447/INO)| A user-friendly app for student to share his/her socials like linktree or you can say this is android version of linktree with some extra features and also store your project details to use it on your web portfolio. |
 |[Juicy-N-Yummy](https://github.com/pratham-0094/Juicy-N-Yummy)| Juicy-N-Yummy is an platform for restaurant aggregator and food delivery. It provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in select cities. | -->
@@ -85,7 +88,7 @@ Pursuing BTech CSE’24 from <b>Shri Shankaracharya Technical Campus</b>, Bhilai
 </div> 
  <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-0094&)">
- <img src="https://activity-graph.herokuapp.com/graph?username=pratham-0094&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=pratham-0094&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div> -->
  
 
 <h1 align="center">Interest</h1>
