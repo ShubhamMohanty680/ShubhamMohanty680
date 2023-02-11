@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **JAVA , C/C++**,Python
+- 🌱 I’m currently learning **JAVA , C/C++**,Python,Django
 
 - 👯 I’m looking to collaborate on **Apps**
 
