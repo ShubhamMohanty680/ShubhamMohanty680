@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://vishveshjain.github.io/](https://vishveshjain.github.io/)
+- 👨‍💻 All of my projects are available 
 
 - 💬 Ask me about **Python, Java, C, C++
 
