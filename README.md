@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ShubhamMohanty680&show_icons=true&locale=en&layout=compact" alt="ShubhamMohanty" /></p>
 
-<p>&nbsp;<img align="center" src="github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&" alt="ShubhamMohanty" /></p>
