@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available 
 
-- 💬 Ask me about Python, Java, C, C++
+- 💬 Ask me about **Python, Java, C, C++**
 
 - 📫 How to reach me LinkedIn [@Shubham](https://www.linkedin.com/in/shubham-mohanty-a42590250/).
 
