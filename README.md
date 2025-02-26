@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Java, C, C++**
 
-- 📫 How to reach me LinkedIn [@Shubham Mohanty](https://www.linkedin.com/in/shubham-mohanty-a42590250/).
+- 📫 How to reach me LinkedIn [@Shubham Mohanty](https://www.linkedin.com/in/shubham-mohanty-a42590250/)
 
 - 📄 Know about my experiences 
 
