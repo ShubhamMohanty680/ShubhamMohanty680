@@ -23,7 +23,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
 
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamMohanty680&theme=solarized_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/ShubhamMohanty680">
+  <img src="https://github.com/ShubhamMohanty680/github-contribution-grid-snake.svg" />
+</a>
+
 
 
 
