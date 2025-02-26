@@ -23,7 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
 
-<a href="https://github.com/ShubhamMohanty680"><img src="https://github.com/ShubhamMohanty680/github-contribution-grid-snake.svg" /></a>
+[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamMohanty680&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
