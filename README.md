@@ -24,7 +24,7 @@
 
 
 <br>
-<br>
+
 
 # 📊 GitHub Stats:
 
@@ -33,7 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamMohanty680&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<br>
 <br>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Summary
