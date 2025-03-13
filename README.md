@@ -26,7 +26,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ShubhamMohanty680&show_icons=true&locale=en&layout=compact" alt="ShubhamMohanty" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
 
 
