@@ -28,10 +28,9 @@
 
 # 📊 GitHub Stats:
 
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ShubhamMohanty680&show_icons=true&locale=en&layout=compact" alt="ShubhamMohanty" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
+![](https://github-readme-stats.vercel.app/api?username=ShubhamMohanty680&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamMohanty680&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <br>
