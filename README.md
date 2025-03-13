@@ -23,7 +23,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&locale=en" alt="ShubhamMohanty" /></p>
 
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamMohanty680&theme=solarized_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShubhamMohanty680&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamMohanty680&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Summary
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamMohanty680&theme=radical" alt="stats" />
+</div>
+
+<div align="center" style="margin-top:20px;">
+  <img  width="700" style="margin-top:20px;" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamMohanty680&theme=synthwave-84&true&hide_border=true" />
+</div>
 
 
 
