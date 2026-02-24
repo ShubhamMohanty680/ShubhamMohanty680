@@ -57,7 +57,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;Data+Engineering+Enthusiast;Cloud+%7C+Pipelines+%7C+Big+Data" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 CSE Graduate | Data Engineering Enthusiast | Azure · Databricks · PySpark · BigQuery</h3>
+<h3 align="center">🚀 CSE Graduate | Data Engineering Enthusiast  | Data Science Enthusiast | Azure · Databricks · PySpark · AWS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhamMohanty680&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
