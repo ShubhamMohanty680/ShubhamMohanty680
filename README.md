@@ -179,7 +179,11 @@
 
 | Certificate | Issuer | Status |
 |---|---|---|
+| Advanced Data Science with Python | NASSCOM | ✅ Completed |
 | Apache Spark with Databricks Data Engineering | Databricks | ✅ Completed |
+| Data Warehouse for Data Engineering with Snowflake | Databricks | ✅ Completed |
+| SQL for Data Engineering | Databricks | ✅ Completed |
+| Python for Data Engineering | Databricks | ✅ Completed |
 
 ---
 
