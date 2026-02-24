@@ -129,9 +129,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
