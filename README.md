@@ -206,41 +206,41 @@
 ---
 
 ## 👨‍💻 About Me
-- [cite_start]🎓 **CSE Graduate** (8.5 CGPA) with a focus on scalable data infrastructure[cite: 7, 16].
-- [cite_start]🔭 Working on **end-to-end cloud data pipelines** and **Agentic AI** workflows[cite: 31, 35].
-- [cite_start]🧠 Expertise in **Generative AI**, specifically **RAG** and **LangChain**[cite: 23, 67].
-- 🛠️ Certified in **Apache Spark with Databricks** and **Snowflake** for Data Engineering.
-- [cite_start]⚡ Fun Fact: I specialize in turning messy raw data into high-performance insights[cite: 14, 58].
+- [cite_start]🎓 **B.Tech in Computer Science & Engineering** (8.5 CGPA) from Shri Shankaracharya Technical Campus[cite: 7, 8, 16].
+- [cite_start]🔭 Specialist in building **end-to-end cloud data pipelines** and **automated query routing systems**[cite: 31, 35, 65].
+- [cite_start]🧠 Expertise in **Generative AI**, specifically **RAG**, **LangChain**, and **LLM Prompt Engineering**[cite: 23, 26, 67].
+- [cite_start]🛠️ Skilled in **Big Data** processing with **PySpark**, **Airflow**, and **Databricks**[cite: 21, 65].
+- [cite_start]⚡ Fun Fact: I turn messy, raw data into high-performance insights through rigorous **EDA and Feature Extraction**[cite: 14, 58].
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Big Data Engineering
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
-* [cite_start]**Tools:** PySpark, Airflow, Docker, and Snowflake[cite: 21, 22, 65, 66].
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+* [cite_start]**Core:** PySpark, Airflow, AWS, Docker, and Git[cite: 21, 22, 65, 66].
 
 ### 🤖 Machine Learning & GenAI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-* [cite_start]**Techniques:** RAG, LLM Prompt Engineering, NLP, and Computer Vision[cite: 20, 23, 62, 78].
-* [cite_start]**Automation:** n8n, Agentic AI, and Sentiment Analysis[cite: 31, 33, 75].
+* [cite_start]**AI:** Transformers, RAG, NLP, and Deep Learning (ANN, Computer Vision)[cite: 18, 20, 23, 64, 66].
+* [cite_start]**Automation:** n8n workflow automation and Sentiment Analysis[cite: 31, 33, 75].
 
 ### 🗄️ Databases & Analytics
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-* [cite_start]**Skills:** Complex Multi-table JOINs, Feature Extraction, and EDA[cite: 14, 40, 58].
+* [cite_start]**Skills:** MySQL, MongoDB, NumPy, Pandas, and Scikit-learn[cite: 11, 15, 55, 59].
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Key Projects
 
-- [cite_start]**AI Mentor Chatbot:** Domain-specific guidance using **LangChain** and **Hugging Face**[cite: 25, 26, 70].
-- [cite_start]**Smart Query Router:** Real-time routing system built with **n8n** and **Sentiment Analysis**[cite: 31, 32, 75, 76].
-- [cite_start]**Library Management System:** End-to-end relational database design with complex business logic[cite: 37, 38, 41].
-- [cite_start]**Behavioral Prediction:** ML model using **Optuna-tuned KNN** with 94% accuracy[cite: 81, 85].
+- [cite_start]**AI Mentor Chatbot:** Created a domain-specific mentor using **LangChain** and **Hugging Face LLMs** with conversational memory[cite: 25, 26, 29].
+- [cite_start]**Smart Query Router:** Integrated **n8n** with **LLMs** to classify and route queries based on sentiment analysis[cite: 31, 34, 35].
+- [cite_start]**Introvert-Extrovert Prediction:** Achieved **94% accuracy** using **Optuna-tuned KNN** and behavioral data[cite: 81, 85].
+- [cite_start]**Library Management System:** Designed a relational database with 7 tables and complex multi-table JOINs[cite: 37, 38, 40].
 
 ---
 
-## 🏆 GitHub Trophies (Mirror Fix)
+## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
@@ -249,7 +249,7 @@
 
 ---
 
-## 📊 Analytics
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
@@ -262,12 +262,12 @@
 
 ---
 
-## 🎓 Certifications
-- **Apache Spark with Databricks Data Engineering** (✅ Completed)
-- [cite_start]**SQL for Data Engineering** [cite: 44, 88] (✅ Completed)
-- [cite_start]**Python Fundamentals** [cite: 43, 87] (✅ Completed)
-- **Advanced Data Science with Python (NASSCOM)** (✅ Completed)
-- **Data Warehouse for Snowflake** (✅ Completed)
+## 📜 Certifications
+- [cite_start]**SQL for Data Engineering**[cite: 44, 88].
+- [cite_start]**Python Fundamentals**[cite: 43, 87].
+- Apache Spark with Databricks Data Engineering.
+- Snowflake for Data Engineering.
+- Advanced Data Science with Python (NASSCOM).
 
 ---
 
