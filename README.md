@@ -53,7 +53,7 @@
 
 
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;Data+Engineering+Enthusiast;Cloud+%7C+Pipelines+%7C+Big+Data" alt="Typing SVG" />
 </h1>
 
@@ -189,9 +189,93 @@
 
 <p align="center">
   <i>"Turning raw data into meaningful insights, one pipeline at a time."</i>
+</p> -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;Data+Engineering+Enthusiast;Cloud+%7C+Pipelines+%7C+Big+Data" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamMohanty680&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://www.linkedin.com/in/shubham-mohanty-a42590250/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Data%20Engineering-green?style=for-the-badge" alt="Open To Work" />
 </p>
 
+<h3 align="center">🚀 CSE Graduate | Data Engineering & Science Enthusiast | Azure · Databricks · PySpark · AWS</h3>
 
+---
+
+## 👨‍💻 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🎓 <b>CSE Graduate</b> passionate about scalable data infra.</li>
+        <li>🔭 Currently building <b>end-to-end cloud pipelines</b>.</li>
+        <li>🌱 Learning <b>Apache Spark with Databricks</b> (Certified ✅).</li>
+        <li>⚡ Fun fact: I turn raw messy data into clean insights!</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamMohanty680&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies (Fixed)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & Data** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+
+---
+
+## 📊 Analytics & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamMohanty680/ShubhamMohanty680/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🎓 Certifications
+
+> [!TIP]
+> **Key Focus:** Azure Data Engineering & Big Data Processing
+
+| Certificate | Issuer | Status |
+| :--- | :--- | :--- |
+| Advanced Data Science with Python | NASSCOM | ✅ Completed |
+| Apache Spark with Databricks | Databricks | ✅ Completed |
+| Snowflake for Data Engineering | Snowflake | ✅ Completed |
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 
 
