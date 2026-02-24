@@ -192,7 +192,7 @@
 </p> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;Data+Engineering+Enthusiast;Cloud+%7C+Pipelines+%7C+Big+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;AI+%26+Data+Science+Enthusiast;Machine+Learning+Engineering;LLM+%7C+RAG+%7C+Generative+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -200,34 +200,43 @@
   <a href="https://www.linkedin.com/in/shubham-mohanty-a42590250/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Data%20Engineering-green?style=for-the-badge" alt="Open To Work" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-AI%20%2F%20Data%20Science-green?style=for-the-badge" alt="Open To Work" />
 </p>
 
-<h3 align="center">🚀 CSE Graduate | Data Engineering & Science Enthusiast | Azure · Databricks · PySpark · AWS</h3>
+---
+
+## 👨‍💻 Professional Summary
+* [cite_start]🎓 **B.Tech in Computer Science & Engineering** (8.5 CGPA) from Shri Shankaracharya Technical Campus[cite: 7, 8, 16].
+* [cite_start]🔭 Currently focusing on **Generative AI** using **LangChain, Transformers, and RAG**[cite: 23, 67].
+* [cite_start]🌱 Specialist in **Predictive Modeling**, achieving 94% accuracy on behavior classification using **Optuna-tuned KNN**[cite: 85].
+* [cite_start]⚡ Passionate about **Agentic AI** and automated workflow routing using **n8n**[cite: 27, 31].
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack & Skills
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🎓 <b>CSE Graduate</b> passionate about scalable data infra.</li>
-        <li>🔭 Currently building <b>end-to-end cloud pipelines</b>.</li>
-        <li>🌱 Learning <b>Apache Spark with Databricks</b> (Certified ✅).</li>
-        <li>⚡ Fun fact: I turn raw messy data into clean insights!</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamMohanty680&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+* [cite_start]**Deep Learning:** ANN, CNN, Computer Vision, and Neural Networks[cite: 20, 64].
+* [cite_start]**Generative AI:** Transformers, LangChain, RAG, and Hugging Face[cite: 22, 23, 66, 67].
+* [cite_start]**NLP:** Sentiment Analysis and Natural Language Processing[cite: 18, 33, 62].
+
+### 📊 Data Engineering & Analytics
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+* [cite_start]**Tools:** PySpark, Airflow, Git, and Docker[cite: 21, 22, 65, 66].
+* [cite_start]**Databases:** MySQL and MongoDB[cite: 15, 59].
+* [cite_start]**Visualization:** Matplotlib, Seaborn, and Power BI[cite: 12, 56].
 
 ---
 
-## 🏆 GitHub Trophies (Fixed)
+## 🚀 Key Projects
+* [cite_start]**AI Mentor Chatbot:** Developed a domain-specific mentor using **Streamlit and LangChain** with session-based memory[cite: 25, 29, 70, 73].
+* [cite_start]**Smart Query Router:** Built an automated system using **n8n and LLMs** to route student queries based on sentiment[cite: 31, 33, 75].
+* [cite_start]**Behavioral Predictor:** Implemented an Introvert/Extrovert classifier with high-accuracy hyperparameter tuning[cite: 81, 85].
+
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
@@ -236,46 +245,24 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud & Data** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Data & ML** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
-
----
-
-## 📊 Analytics & Impact
-
+## 📊 Analytics
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamMohanty680&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShubhamMohanty680/ShubhamMohanty680/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🎓 Certifications
-
-> [!TIP]
-> **Key Focus:** Azure Data Engineering & Big Data Processing
-
-| Certificate | Issuer | Status |
-| :--- | :--- | :--- |
-| Advanced Data Science with Python | NASSCOM | ✅ Completed |
-| Apache Spark with Databricks | Databricks | ✅ Completed |
-| Snowflake for Data Engineering | Snowflake | ✅ Completed |
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
+## 📜 Certifications
+* [cite_start]**Python Fundamentals** [cite: 43, 87]
+* [cite_start]**SQL For Data Engineering** [cite: 44, 88]
+* Advanced Data Science with Python (NASSCOM)
+* Apache Spark with Databricks Data Engineering
 
 
 
