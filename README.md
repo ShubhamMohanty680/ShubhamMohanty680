@@ -192,7 +192,7 @@
 </p> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;AI+%26+Data+Science+Enthusiast;Machine+Learning+Engineering;LLM+%7C+RAG+%7C+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Mohanty;Data+Engineer+%26+AI+Enthusiast;Cloud+Pipelines+%7C+Big+Data+%7C+LLMs;Azure+%7C+AWS+%7C+Databricks" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -200,43 +200,47 @@
   <a href="https://www.linkedin.com/in/shubham-mohanty-a42590250/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-AI%20%2F%20Data%20Science-green?style=for-the-badge" alt="Open To Work" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Data%20%26%20AI-green?style=for-the-badge" alt="Open To Work" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-* [cite_start]🎓 **B.Tech in Computer Science & Engineering** (8.5 CGPA) from Shri Shankaracharya Technical Campus[cite: 7, 8, 16].
-* [cite_start]🔭 Currently focusing on **Generative AI** using **LangChain, Transformers, and RAG**[cite: 23, 67].
-* [cite_start]🌱 Specialist in **Predictive Modeling**, achieving 94% accuracy on behavior classification using **Optuna-tuned KNN**[cite: 85].
-* [cite_start]⚡ Passionate about **Agentic AI** and automated workflow routing using **n8n**[cite: 27, 31].
+## 👨‍💻 About Me
+- [cite_start]🎓 **CSE Graduate** (8.5 CGPA) with a focus on scalable data infrastructure[cite: 7, 16].
+- [cite_start]🔭 Working on **end-to-end cloud data pipelines** and **Agentic AI** workflows[cite: 31, 35].
+- [cite_start]🧠 Expertise in **Generative AI**, specifically **RAG** and **LangChain**[cite: 23, 67].
+- 🛠️ Certified in **Apache Spark with Databricks** and **Snowflake** for Data Engineering.
+- [cite_start]⚡ Fun Fact: I specialize in turning messy raw data into high-performance insights[cite: 14, 58].
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 🤖 Machine Learning & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-* [cite_start]**Deep Learning:** ANN, CNN, Computer Vision, and Neural Networks[cite: 20, 64].
-* [cite_start]**Generative AI:** Transformers, LangChain, RAG, and Hugging Face[cite: 22, 23, 66, 67].
-* [cite_start]**NLP:** Sentiment Analysis and Natural Language Processing[cite: 18, 33, 62].
+### ☁️ Cloud & Big Data Engineering
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+* [cite_start]**Tools:** PySpark, Airflow, Docker, and Snowflake[cite: 21, 22, 65, 66].
 
-### 📊 Data Engineering & Analytics
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-* [cite_start]**Tools:** PySpark, Airflow, Git, and Docker[cite: 21, 22, 65, 66].
-* [cite_start]**Databases:** MySQL and MongoDB[cite: 15, 59].
-* [cite_start]**Visualization:** Matplotlib, Seaborn, and Power BI[cite: 12, 56].
+### 🤖 Machine Learning & GenAI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+* [cite_start]**Techniques:** RAG, LLM Prompt Engineering, NLP, and Computer Vision[cite: 20, 23, 62, 78].
+* [cite_start]**Automation:** n8n, Agentic AI, and Sentiment Analysis[cite: 31, 33, 75].
 
----
-
-## 🚀 Key Projects
-* [cite_start]**AI Mentor Chatbot:** Developed a domain-specific mentor using **Streamlit and LangChain** with session-based memory[cite: 25, 29, 70, 73].
-* [cite_start]**Smart Query Router:** Built an automated system using **n8n and LLMs** to route student queries based on sentiment[cite: 31, 33, 75].
-* [cite_start]**Behavioral Predictor:** Implemented an Introvert/Extrovert classifier with high-accuracy hyperparameter tuning[cite: 81, 85].
+### 🗄️ Databases & Analytics
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+* [cite_start]**Skills:** Complex Multi-table JOINs, Feature Extraction, and EDA[cite: 14, 40, 58].
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Highlighted Projects
+
+- [cite_start]**AI Mentor Chatbot:** Domain-specific guidance using **LangChain** and **Hugging Face**[cite: 25, 26, 70].
+- [cite_start]**Smart Query Router:** Real-time routing system built with **n8n** and **Sentiment Analysis**[cite: 31, 32, 75, 76].
+- [cite_start]**Library Management System:** End-to-end relational database design with complex business logic[cite: 37, 38, 41].
+- [cite_start]**Behavioral Prediction:** ML model using **Optuna-tuned KNN** with 94% accuracy[cite: 81, 85].
+
+---
+
+## 🏆 GitHub Trophies (Mirror Fix)
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
@@ -251,19 +255,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMohanty680&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShubhamMohanty680/ShubhamMohanty680/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 📜 Certifications
-* [cite_start]**Python Fundamentals** [cite: 43, 87]
-* [cite_start]**SQL For Data Engineering** [cite: 44, 88]
-* Advanced Data Science with Python (NASSCOM)
-* Apache Spark with Databricks Data Engineering
+## 🎓 Certifications
+- **Apache Spark with Databricks Data Engineering** (✅ Completed)
+- [cite_start]**SQL for Data Engineering** [cite: 44, 88] (✅ Completed)
+- [cite_start]**Python Fundamentals** [cite: 43, 87] (✅ Completed)
+- **Advanced Data Science with Python (NASSCOM)** (✅ Completed)
+- **Data Warehouse for Snowflake** (✅ Completed)
 
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 
 
