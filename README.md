@@ -128,9 +128,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamMohanty680&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamMohanty680&show_icons=true&theme=tokyonight)
 
 ---
 
