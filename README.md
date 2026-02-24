@@ -206,11 +206,11 @@
 ---
 
 ## 👨‍💻 About Me
-- [cite_start]🎓 **B.Tech in Computer Science & Engineering** (8.5 CGPA) from Shri Shankaracharya Technical Campus[cite: 7, 8, 16].
-- [cite_start]🔭 Specialist in building **end-to-end cloud data pipelines** and **automated query routing systems**[cite: 31, 35, 65].
-- [cite_start]🧠 Expertise in **Generative AI**, specifically **RAG**, **LangChain**, and **LLM Prompt Engineering**[cite: 23, 26, 67].
-- [cite_start]🛠️ Skilled in **Big Data** processing with **PySpark**, **Airflow**, and **Databricks**[cite: 21, 65].
-- [cite_start]⚡ Fun Fact: I turn messy, raw data into high-performance insights through rigorous **EDA and Feature Extraction**[cite: 14, 58].
+- 🎓 **B.Tech in Computer Science & Engineering** (8.5 CGPA) from Shri Shankaracharya Technical Campus.
+- 🔭 Specialist in building **end-to-end cloud data pipelines** and **automated query routing systems**.
+- 🧠 Expertise in **Generative AI**, specifically **RAG**, **LangChain**, and **LLM Prompt Engineering**.
+- 🛠️ Skilled in **Big Data** processing with **PySpark**, **Airflow**, and **Databricks**.
+- ⚡ Fun Fact: I turn messy, raw data into high-performance insights through rigorous **EDA and Feature Extraction**.
 
 ---
 
@@ -218,25 +218,20 @@
 
 ### ☁️ Cloud & Big Data Engineering
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-* [cite_start]**Core:** PySpark, Airflow, AWS, Docker, and Git[cite: 21, 22, 65, 66].
 
 ### 🤖 Machine Learning & GenAI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-* [cite_start]**AI:** Transformers, RAG, NLP, and Deep Learning (ANN, Computer Vision)[cite: 18, 20, 23, 64, 66].
-* [cite_start]**Automation:** n8n workflow automation and Sentiment Analysis[cite: 31, 33, 75].
 
 ### 🗄️ Databases & Analytics
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-* [cite_start]**Skills:** MySQL, MongoDB, NumPy, Pandas, and Scikit-learn[cite: 11, 15, 55, 59].
 
 ---
 
 ## 🚀 Key Projects
-
-- [cite_start]**AI Mentor Chatbot:** Created a domain-specific mentor using **LangChain** and **Hugging Face LLMs** with conversational memory[cite: 25, 26, 29].
-- [cite_start]**Smart Query Router:** Integrated **n8n** with **LLMs** to classify and route queries based on sentiment analysis[cite: 31, 34, 35].
-- [cite_start]**Introvert-Extrovert Prediction:** Achieved **94% accuracy** using **Optuna-tuned KNN** and behavioral data[cite: 81, 85].
-- [cite_start]**Library Management System:** Designed a relational database with 7 tables and complex multi-table JOINs[cite: 37, 38, 40].
+- **AI Mentor Chatbot:** Created a domain-specific mentor using **LangChain** and **Hugging Face LLMs** with conversational memory.
+- **Smart Query Router:** Integrated **n8n** with **LLMs** to classify and route queries based on sentiment analysis.
+- **Introvert-Extrovert Prediction:** Achieved **94% accuracy** using **Optuna-tuned KNN** and behavioral data.
+- **Library Management System:** Designed a relational database with 7 tables and complex multi-table JOINs.
 
 ---
 
@@ -263,13 +258,17 @@
 ---
 
 ## 📜 Certifications
-- [cite_start]**SQL for Data Engineering**[cite: 44, 88].
-- [cite_start]**Python Fundamentals**[cite: 43, 87].
-- Apache Spark with Databricks Data Engineering.
-- Snowflake for Data Engineering.
-- Advanced Data Science with Python (NASSCOM).
+- **SQL for Data Engineering**.
+- **Python Fundamentals**.
+- **Apache Spark with Databricks Data Engineering**.
+- **Snowflake for Data Engineering**.
+- **Advanced Data Science with Python (NASSCOM)**.
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
