@@ -231,7 +231,7 @@
 - **AI Mentor Chatbot:** Created a domain-specific mentor using **LangChain** and **Hugging Face LLMs** with conversational memory.
 - **Smart Query Router:** Integrated **n8n** with **LLMs** to classify and route queries based on sentiment analysis.
 - **Introvert-Extrovert Prediction:** Achieved **94% accuracy** using **Optuna-tuned KNN** and behavioral data.
-- **Library Management System:** Designed a relational database with 7 tables and complex multi-table JOINs.
+
 
 ---
 
